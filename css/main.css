@@ -4182,14 +4182,11 @@ details.toc[open] >div.body section .header+.doc_tree {
   align-items: center;
 }
 .logo-wrap a.avatar {
-  display: block;
-  position: relative;
-  width: 48px;
-  height: 48px;
-  flex-shrink: 0;
-  border-radius: 48px;
-  overflow: hidden;
+  width: 80px;
+  height: 80px;
   margin-right: 1rem;
+  border-radius: 4px;
+  flex-shrink: 0;
 }
 .logo-wrap a.avatar div.bg {
   width: 100%;
